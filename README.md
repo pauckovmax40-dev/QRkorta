@@ -1,1 +1,1 @@
-# QRkorta
+# NkortaQR
